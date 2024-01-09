@@ -1,5 +1,5 @@
 def return_string():
-    return 'Hello, {name}!'
+    return ''
 
 def interpolate_string(s):
     return f'Hello, {s}!'
